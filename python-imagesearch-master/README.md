@@ -1,3 +1,8 @@
+Magic happens i example.py resten e pretty much copy paste av https://github.com/drov0/tensorflow-example om int exakt copypaste
+
+
+
+##OLD
 # Python-ImageSearch
 
 it's a wrapper around pyautogui and opencv2, to allow you to easily add cross-platform image searching capabilities

@@ -6,16 +6,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="625a03be-9b58-47c6-b683-c8b00749ab2a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/python-imagesearch-master/cap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-imagesearch-master/tf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/emptyrock1.png" beforeDir="false" afterPath="$PROJECT_DIR$/python-imagesearch-master/emptyrock1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/emptyrock2.png" beforeDir="false" afterPath="$PROJECT_DIR$/python-imagesearch-master/emptyrock2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/python-imagesearch-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/dedicon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/droptinore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/emptyrock1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/emptyrock2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/python-imagesearch-master/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-imagesearch-master/example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/imagesearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-imagesearch-master/imagesearch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/rock1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/rock2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/rock3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/full inventory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/fullinv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/github.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/panda.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/start pos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-imagesearch-master/tinore.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="example.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="example.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-imagesearch-master/example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="129" column="18" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+            <state relative-caret-position="612">
+              <caret line="81" column="64" lean-forward="true" selection-start-line="81" selection-start-column="64" selection-end-line="81" selection-end-column="64" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -38,10 +40,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python-imagesearch-master/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="128" selection-start-column="128" selection-end-column="128" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="imagesearch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-imagesearch-master/imagesearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
+            <state relative-caret-position="663">
               <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -70,6 +84,7 @@
         <option value="$PROJECT_DIR$/python-imagesearch-master/tf.py" />
         <option value="$PROJECT_DIR$/python-imagesearch-master/imagesearch.py" />
         <option value="$PROJECT_DIR$/python-imagesearch-master/example.py" />
+        <option value="$PROJECT_DIR$/python-imagesearch-master/README.md" />
       </list>
     </option>
   </component>
@@ -219,12 +234,12 @@
       <updated>1528113768453</updated>
       <workItem from="1528113770230" duration="23360000" />
       <workItem from="1528296297329" duration="7518000" />
-      <workItem from="1528304837680" duration="10861000" />
+      <workItem from="1528304837680" duration="11310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41739000" />
+    <option name="totallyTimeSpent" value="42188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -337,14 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python-imagesearch-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python-imagesearch-master/screenshotter" />
     <entry file="file://$USER_HOME$/Downloads/Runescape_MachineLearning_PVP_Bot/Python/rs_pvp_trainer_model_maker.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -411,7 +418,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python-imagesearch-master/imagesearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
+        <state relative-caret-position="663">
           <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -421,11 +428,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python-imagesearch-master/example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="129" column="18" selection-start-line="129" selection-start-column="18" selection-end-line="129" selection-end-column="18" />
+        <state relative-caret-position="612">
+          <caret line="81" column="64" lean-forward="true" selection-start-line="81" selection-start-column="64" selection-end-line="81" selection-end-column="64" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-imagesearch-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="128" selection-start-column="128" selection-end-column="128" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

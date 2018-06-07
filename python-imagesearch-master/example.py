@@ -41,7 +41,7 @@ def dropping():
     """
     global i,isy,isx,oisx,oisy
     while i<24:
-        click_image("iore.png", (isx-16,isy-16), "left", r(0.1,0.1), offset=32)
+        click_image("images/iore.png", (isx-16,isy-16), "left", r(0.1,0.1), offset=32)
         i=i+1
         if i%4==0:
             isx=isx-126
@@ -79,7 +79,7 @@ def mineone(ore):
         time.sleep(0.3)
     if pos[0]!=-1:
         click_image(ore, pos, "left", r(0.1,0.1), offset=40)
-        fullinv = imagesearcharea("fullinvi.png",0,0,963,623)
+        fullinv = imagesearcharea("images/fullinvi.png",0,0,963,623)
         if fullinv[0] != -1:
             dropping()
         pyautogui.moveTo(r(700,500),r(100,500),r(0.5,1))
@@ -92,14 +92,14 @@ def checkore(isx,isy):
     int se skillnad mellan brun(kan mineas) o grå (väntar på respawn)
     """
     j=0
-    pos=imagesearcharea("iore.png",isx,isy,isx+32,isy+32,precision=0.3)
-    gempos=imagesearcharea("gem.png",isx,isy,isx+32,isy+32,precision=0.2)
+    pos=imagesearcharea("images/iore.png",isx,isy,isx+32,isy+32,precision=0.3)
+    gempos=imagesearcharea("images/gem.png",isx,isy,isx+32,isy+32,precision=0.2)
     while pos[0]==-1 and gempos[0]==-1:
-        gempos=imagesearcharea("gem.png",isx,isy,isx+32,isy+32,precision=0.2)
+        gempos=imagesearcharea("images/gem.png",isx,isy,isx+32,isy+32,precision=0.2)
         if j==20:
             print("took too long")
             mining()
-        pos=imagesearcharea("iore.png",isx,isy,isx+32,isy+32,precision=0.3)
+        pos=imagesearcharea("images/iore.png",isx,isy,isx+32,isy+32,precision=0.3)
         j+=1
 def miningtwo():
     """
