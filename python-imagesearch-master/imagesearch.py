@@ -106,7 +106,7 @@ def imagesearch(image, precision=0.8):
     template = cv2.imread(image, 0)
     template.shape[::-1]
 
-    res = cv2.matchTemplate(img_gray, template, cv2.TM_CCOEFF_NORMED)
+    res = cv2.matchTemplate(img_rgb, template, cv2.TM_CCOEFF_NORMED)
     min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(res)
     if max_val < precision:
         return [-1,-1]
