@@ -1,8 +1,6 @@
-Magic happens i example.py resten e pretty much copy paste av https://github.com/drov0/tensorflow-example om int exakt copypaste
+Recognizes images from the game and clicks them. Customized for my use, based on Python-Imagesearch code by drov0.
 
-
-
-## OLD
+##Image search README
 
 
 # Python-ImageSearch
